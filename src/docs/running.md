@@ -8,7 +8,7 @@ order: 1
 # 设置作者
 author: btjawa
 # 设置写作时间
-date: 2023-09-17
+date: 2023-09-20
 # 一个页面可以有多个分类
 category:
   - 使用文档
@@ -34,37 +34,30 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 ### 本地端
 
-请确保在 主页 选项卡下将 **Grasscutter** 的参数填写为
+请确保在 `主页` 选项卡下将 **Grasscutter** 的参数填写为
+
 `IP/域名 127.0.0.1` `游戏服务器端口 22102` `DISPATCH端口 443`
 
-## 页面内容
+`客户端代理` 一栏端口应该对应DISPATCH端口
 
-你可以自由在这里书写你的 Markdown。
+点击右下角的 `启动全部服务` 来启动服务（请信任UAC以导入证书），点击 `启动游戏` 启动游戏
 
-::: tip
+等待Grasscutter加载完毕后使用 `/account create 用户名` 创建账户
 
-- 你可以将图片和 Markdown 文件放置在一起，但是你需要使用**相对链接**`./` 进行引用。
+并在游戏内使用你的用户名（没有设置密码，可以输入≥1位的字符当作密码，例如"1"）来登录
 
-- 对于 `.vuepress/public` 文件夹的图片，请使用绝对链接 `/` 进行引用。
+### 远程端
 
-:::
+请确保在 `主页` 选项卡下将 **Grasscutter** 的参数填写为
 
-主题包含了一个自定义徽章可以使用:
+`IP/域名 (服务测配置 server.game.accessAddress)`
 
-> 文字结尾应该有深蓝色的 徽章文字 徽章。 <Badge text="徽章文字" color="#242378" />
+`游戏服务器端口 (服务测配置 server.game.bindPort)`
 
-## 页面结构
+`DISPATCH端口 (服务测配置 server.http.bindPort)`
 
-此页面应当包含:
+## 手动运行服务
 
-- [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
-- [标题和页面信息](https://theme-hope.vuejs.press/zh/guide/feature/page-info.html)
-- [TOC (文章标题列表)](https://theme-hope.vuejs.press/zh/guide/layout/page.html#标题列表)
-- [贡献者、更新时间等页面元信息](https://theme-hope.vuejs.press/guide/feature/meta.html)
-- [评论](https://theme-hope.vuejs.press/zh/guide/feature/comment.html)
-- [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
-- [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
-- [页脚](https://theme-hope.vuejs.press/zh/guide/layout/footer.html)
-- 返回顶部按钮
+咕咕咕
 
-你可以通过主题选项和页面 Frontmatter 自定义它们。
+可以去 [Grasscutter Wiki](https://github.com/Grasscutters/Grasscutter/wiki) 查看

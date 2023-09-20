@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://btjawa.github.io/BGP-docs",
 
   author: {
     name: "btjawa",
@@ -16,6 +16,8 @@ export default hopeTheme({
 
   repo: "btjawa/BGP-docs",
 
+  docsBranch: "master",
+
   docsDir: "src",
 
   // navbar
@@ -24,7 +26,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "转载时请附上原作者btjawa",
 
   displayFooter: true,
 

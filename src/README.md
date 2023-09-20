@@ -21,8 +21,8 @@ highlights:
   - header: 常见错误 🤔
     description: 按照实际使用环境整理了一份错误码/其他错误合集
     image: /assets/image/bomb.svg
-    bgImage: /assets/image/2-light.svg
-    bgImageDark: /assets/image/2-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial

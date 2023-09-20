@@ -3,7 +3,7 @@ title: 命令合集
 index: false
 icon: terminal
 category:
-  - 使用指南
+  - 命令合集
 ---
 
 ## 目录

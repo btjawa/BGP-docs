@@ -11,6 +11,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "常见错误",
+      icon: "xmark",
+      prefix: "errors/",
+      link: "errors/",
+      children: "structure",
+    },
+    {
       text: "命令合集",
       icon: "terminal",
       prefix: "commands/",
