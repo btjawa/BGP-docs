@@ -58,6 +58,6 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 ## 手动运行服务
 
-咕咕咕
+咕咕咕...
 
 可以去 [Grasscutter Wiki](https://github.com/Grasscutters/Grasscutter/wiki) 查看

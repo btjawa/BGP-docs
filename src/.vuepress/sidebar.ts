@@ -12,7 +12,7 @@ export default sidebar({
     },
     {
       text: "常见错误",
-      icon: "xmark",
+      icon: "triangle-exclamation",
       prefix: "errors/",
       link: "errors/",
       children: "structure",
@@ -23,6 +23,5 @@ export default sidebar({
       prefix: "commands/",
       children: "structure",
     },
-    "slides",
   ],
 });
