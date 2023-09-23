@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build src",
-    "docs:build-locally": "vuepress build src && xcopy .\\src\\.vuepress\\dist ..\\dist\\docs /E /I /Y",
+    "docs:build-locally": "rmdir /s /q ..\\dist\\docs && vuepress build src && xcopy .\\src\\.vuepress\\dist ..\\dist\\docs /E /I /Y",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
     "docs:update-package": "npx vp-update"

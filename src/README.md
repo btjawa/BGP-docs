@@ -14,7 +14,7 @@ actions:
     link: ./docs/
 
   - text: 命令合集 🎯
-    link: ./guide/  
+    link: ./commands/  
 
 highlights:
 
