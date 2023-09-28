@@ -30,12 +30,6 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
-
   // page meta
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",

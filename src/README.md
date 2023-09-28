@@ -55,37 +55,32 @@ highlights:
       - title: 进门白屏/连接超时
         icon: link
         details: 登录环节一切正常，进门卡死
-        link: ./errors/4214
+        link: ./errors/white-screen-time-out
 
       - title: 无限转圈
         icon: circle-notch
         details: 天理取名/游戏内其他操作无限转圈
-        link: ./errors/4214
+        link: ./errors/stuck-load
 
       - title: 卡检查更新
         icon: wrench
         details: 登录环节一切正常，卡检查更新
-        link: ./errors/4214
+        link: ./errors/stuck-update
 
       - title: 正在加载Resources...
         icon: circle-notch
         details: 服务端卡死
-        link: ./errors/4214
-
-      - title: already in use:&nbsp;bind
-        icon: square-check
-        details: 服务端报错
-        link: ./errors/4214
+        link: ./errors/stuck-loading-resources
 
       - title: 无角色语音
         icon: microphone
         details: 客户端配置
-        link: ./errors/4214
+        link: ./errors/char-voice
 
       - title: 任务卡死
         icon: clipboard-check
         details: 服务端问题
-        link: ./errors/4214
+        link: ./errors/stuck-game-task
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_blank">GPL-3.0 协议</a>&nbsp;版权所有 © 2023 <a href="https://github.com/btjawa/BGP-docs" target="_blank">btjawa</a>
