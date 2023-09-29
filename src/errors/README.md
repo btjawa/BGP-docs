@@ -9,24 +9,24 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 ## 目录
 
-- [4214](4214)
+- [4214](4214.md)
 
-- [4206](4206)
+- [4206](4206.md)
 
-- [-9107](-9107)
+- [-9107](-9107.md)
 
-- [502/12-4301账号验证失败](502-4301)
+- [502/12-4301账号验证失败](502-4301.md)
 
-- [400/4201](400-4201)
+- [400/4201](400-4201.md)
 
-- [进门白屏/连接超时](white-screen-time-out)
+- [进门白屏/连接超时](white-screen-time-out.md)
 
-- [无限转圈](stuck-load)
+- [无限转圈](stuck-load.md)
 
-- [卡检查更新](stuck-update)
+- [卡检查更新](stuck-update.md)
 
-- [正在加载Resources...](stuck-loading-resources)
+- [正在加载Resources...](stuck-loading-resources.md)
 
-- [无角色语音](char-voice)
+- [无角色语音](char-voice.md)
 
-- [任务卡死](stuck-game-task)
+- [任务卡死](stuck-game-task.md)

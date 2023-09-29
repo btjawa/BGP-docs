@@ -12,3 +12,9 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 - [功能及原理（建议阅读！）](feature.md)
 
 - [运行服务](running.md)
+
+- [模组/插件](extension.md)
+
+- [设置](settings.md)
+
+- [工具](tools.md)

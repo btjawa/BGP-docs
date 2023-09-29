@@ -1,6 +1,6 @@
 ---
 title: 功能及原理（建议阅读！）
-icon: microchip
+icon: feather
 order: 1
 author: btjawa
 date: 2023-09-17

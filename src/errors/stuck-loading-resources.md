@@ -1,6 +1,6 @@
 ---
 title: 正在加载Resources...
-icon: link
+icon: circle-notch
 order: 1
 author: btjawa
 date: 2023-09-28

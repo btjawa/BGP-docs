@@ -1,6 +1,6 @@
 ---
 title: 无角色语音
-icon: link
+icon: microphone
 order: 1
 author: btjawa
 date: 2023-09-28

@@ -26,7 +26,7 @@ footer: 转载时请附上原作者btjawa
 copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_blank">GPL-3.0 协议</a>&nbsp;版权所有 © 2023 <a href="https://github.com/btjawa/BGP-docs" target="_blank">btjawa</a>
 ---
 
-基于 `v1.0.0-alpha` 编写；适用于本地部署/云部署。
+适用于本地部署/云部署。
 
 <!-- more -->
 
