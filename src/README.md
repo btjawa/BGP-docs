@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 主页
 heroImage: /favicon.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: /assets/image/1-light.svg
+bgImageDark: /assets/image/1-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: GenshinPS文档
@@ -21,8 +21,8 @@ highlights:
   - header: 常见错误 🤔
     description: 按照实际使用环境整理了一份错误码/其他错误合集
     image: /assets/image/bomb.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImage: /BGP-docs/assets/image/2-light.svg
+    bgImageDark: /BGP-docs/assets/image/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial

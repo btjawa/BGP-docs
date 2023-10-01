@@ -21,21 +21,20 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 - 查看日志，可用于issue
 
 ## 可在 "设置" 选项卡中设置
-
-- 自动注册（可在游戏中输入用户名直接注册）
+- 3DMigoto路径
 
 - 代理开放的端口
 
 - JDK路径
 
+- 导入/出应用配置
+
 (以下皆在TODO)
 
-- 3DMigoto路径
+- 自动注册（可在游戏中输入用户名直接注册）
 
 - Grasscutter路径
 
 - MongoDB路径
-
-- 导入/出应用配置
 
 - 自定义服务端版本
