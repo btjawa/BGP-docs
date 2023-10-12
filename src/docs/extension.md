@@ -20,6 +20,8 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 可在 "工具/扩展" 选项下下配置模组，自带 `RemoveTransparencyFilter` (消除虚化) 与 `BufferValues` ，可将mod文件夹拖入指定栏来添加模组
 
+模组必须是文件夹形式，其中会有一个或多个 `.ini` 文件
+
 ### 手动添加
 
 打开 `resources\GateServer\3DMigoto\Mods` 可自行添加，应用内列表需要重启以应用更改
@@ -27,6 +29,8 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 ## Grasscutter
 
 可在 "工具/扩展" 选项下下配置插件，自带 `opencommand-1.6.1.jar` (by jie65535，让gctools可远程控制服务端) ，可将插件JAR拖入指定栏来添加插件
+
+插件必须是jar形式，确保兼容当前gc版本（可在应用 "主页" 下点击 "测试连接" 查看版本）
 
 ### 手动添加
 
