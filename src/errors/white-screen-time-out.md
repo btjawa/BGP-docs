@@ -24,7 +24,13 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 可以参考 [4206](4206) 的解决方案
 
-### 2. Resources损坏/不完整
+### 2. 开放端口
+
+检查是否在防火墙放出 UDP `22102`，TCP `443` 或你自己选择的Dispatch端口
+
+若是腾讯云、阿里云等需要在安全组额外放出
+
+### 3. Resources损坏/不完整
 
 可在"主页"选项卡下点击"更新资源"尝试修复Resources，或从 [YuukiPS/GC-Resources](https://gitlab.com/YuukiPS/GC-Resources) 手动下载重命名并放置到 `resources/GateServer/Grasscutter/resources.zip`
 

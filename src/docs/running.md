@@ -54,6 +54,12 @@ copyright: <a href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" target="_bl
 
 :::tip
 
+Windows下ip可在cmd中使用 `ipconfig` 查看，找到对应网卡下的IPv4或IPv6地址
+
+Linux各发行版下可使用 `ifconfig` 查看，找到对应网卡下的inet或inet6
+
+此处RedHat/CentOS可使用 `yum -y install net-tools` ，Debian/Ubuntu可使用 `apt install net-tools`
+
 #### 内网IP
 
 分为A类、B类、C类
